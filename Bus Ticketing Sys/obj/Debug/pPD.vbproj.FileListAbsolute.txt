@@ -1,0 +1,25 @@
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\bin\Debug\Bus Ticketing Sys.exe.config
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\bin\Debug\Bus Ticketing Sys.exe
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\bin\Debug\Bus Ticketing Sys.pdb
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\bin\Debug\Bus Ticketing Sys.xml
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\pPD.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\pPD.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmAirconditionedDGV.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmDashboard.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmDeluxeDGV.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmOrdinaryDGV.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmAdminLogin.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmHome.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmAirconditionedBus.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmBooking.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmBusType.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmDeluxeBus.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmPassengerInfo.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmOrdinaryBus.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.frmPayment.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus_Ticketing_Sys.Resources.resources
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\pPD.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\pPD.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus Ticketing Sys.exe
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus Ticketing Sys.xml
+C:\Users\Lenovo\source\repos\Bus Ticketing Sys\Bus Ticketing Sys\obj\Debug\Bus Ticketing Sys.pdb
